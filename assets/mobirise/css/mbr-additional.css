@@ -41,11 +41,11 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -542,16 +542,16 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 1.6rem;
 }
 blockquote {
   border-color: #ffffff;
@@ -712,7 +712,7 @@ section.lazy-placeholder:after {
 }
 .cid-rRt6A3R64v {
   padding-top: 90px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/mbr.jpg");
 }
 .cid-rRt6A3R64v .mbr-media span {
@@ -781,7 +781,7 @@ section.lazy-placeholder:after {
 .cid-rX85TqQVpk {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/channel-art.jpeg");
+  background-image: url("../../../assets/images/mbr-1.jpg");
 }
 .cid-rX85TqQVpk H1 {
   color: #073b4c;
@@ -789,6 +789,18 @@ section.lazy-placeholder:after {
 .cid-rX85TqQVpk .mbr-text,
 .cid-rX85TqQVpk .mbr-section-btn {
   color: #073b4c;
+}
+.cid-rZKJRXa04j {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rZKJRXa04j .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rZKJRXa04j .social-list a:focus {
+  text-decoration: none;
 }
 .cid-rRtaQfwQgb {
   padding-top: 15px;
@@ -799,7 +811,7 @@ section.lazy-placeholder:after {
   margin-bottom: 2rem;
 }
 .cid-rRtaQfwQgb .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-rRtaQfwQgb a:not([href]):not([tabindex]) {
   color: #fff;
