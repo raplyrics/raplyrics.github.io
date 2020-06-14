@@ -711,8 +711,35 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-s1QarwTMdn {
+  padding-top: 75px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-s1QarwTMdn .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s1QarwTMdn .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-s1QarwTMdn .mbr-text {
+  color: #232323;
+  text-align: center;
+}
+.cid-s1Qbfsh8CB {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s1Qbfsh8CB P {
+  color: #767676;
+}
 .cid-rRt6A3R64v {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 15px;
   background-image: url("../../../assets/images/white-marble-texture-background-abstract-marble-texture-natural-patterns-design-41389.jpg");
 }
@@ -1701,7 +1728,7 @@ section.lazy-placeholder:after {
 }
 .cid-s0Ix9zzKhz {
   padding-top: 90px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-s0Ix9zzKhz .title {
